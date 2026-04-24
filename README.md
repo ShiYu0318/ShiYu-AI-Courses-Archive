@@ -1,6 +1,6 @@
 # ShiYu-AI-Courses-Archive
 
-彙整紀錄歷次授課的 AI 教學筆記與實作練習模板程式碼
+我的 AI 授課紀錄與課程教材資源彙整
 
 - 授課教材：https://slides.com/shiyu/ai/
 > 此份簡報永久公開並將持續迭代，課程資源未附簡報連結表示當次使用舊版簡報授課，其內容已整合至最新版本
@@ -31,6 +31,6 @@
 - [ ] Explainable AI
 - [ ] 手搓簡易 Transformer
 - [ ] AI Agent & MCP & Skills
-- [ ] and more...
+- and more...
 
 > 若有任何課程、營隊、講座或工作坊授課講師需求歡迎聯絡：`hi@4yu.dev`

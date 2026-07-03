@@ -18,7 +18,7 @@
 | 7 | 2026/02/05–08 | SCIST（南臺灣學生資訊社群）× SCAICT（中部高中電資社團聯合會議）- Camp 2026（聯合寒訓）：「閃電 4 連編」 | AI 系列課程：<ul><li>I. AI 理論全攻略（ML/DL/RL）</li><li>II. GenAI 應用開發（LLM + DC Bot）</li><li>III. LLM 進階實作（RAG）</li></ul> | 7.5 | 110 | [完整資源庫](https://github.com/ShiYu0318/ShiYu-AI-Courses-SCIST-Camp-2026) |
 | 8 | 2026/04/12 | 南 5 校資訊社（臺南女中 × 臺南二中 × 嘉義高中 × 嘉義女中 × 大灣高中）聯合社課：「資不可失」 | AI 影像辨識與生成：原理剖析與實作 | 5 | 40 | <ul><li>[📘](./MNIST_Tutorial.ipynb)</li><li>[📝](./MNIST_Exercise.ipynb)</li></ul> |
 | 9 | <ul><li>2026/04/01</li><li>2026/04/22</li><li>2026/05/13</li></ul> | CYSHIRC（嘉義高中資訊研究社）下學期社團課程 | AI 系列社課：<ul><li>I. AI/ML 初探與 MNIST 實作</li><li>II. Diffusion 圖像生成原理與應用</li><li>III. RL 遊戲設計與模型訓練</li></ul> | 6 | 20 | <ul><li>[📘](./MNIST_Tutorial.ipynb)</li><li>[📝](./MNIST_Exercise.ipynb)</li></ul> |
-| 10 | 2026/05/21 | GDG on Campus @NCU（國立中央大學 Google 學生開發者社群）社群課程 | GenAI 實戰 - LLM x RAG 應用開發 | 2.5 | 15 | <ul><li>[📘]()</li><li>[📝]()</li></ul> |
+| 10 | 2026/05/21 | GDG on Campus @NCU（國立中央大學 Google 學生開發者社群）社群課程 | GenAI 實戰 - LLM x RAG 應用開發 | 2.5 | 15+X (YT Viewers) | <ul><li>[📘](./LLM_RAG_Tutorial.ipynb)</li><li>[📝](./LLM_RAG_Exercise.ipynb)</li></ul> |
 | | | | **Total** | **43.5** | **495+** |
 
 ## 待釋出內容
